@@ -1,0 +1,245 @@
+#title{
+    background-color:#0275d8 ;
+}
+
+.container-fluid {
+    padding-top: 70px;
+    padding-bottom: 50px;
+}
+.navbar {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border: 0;
+    border-radius: 0;
+    margin-bottom: 0;
+    font-size: 15px;
+    letter-spacing: 1px;
+}
+{
+    margin-bottom: -1.5rem;
+}
+.text{
+    margin-top: 20px;
+}
+.navbar-nav  li a:hover {
+    color: #1abc9c !important;
+}
+.nav.navbar-nav.navbar-right li a {
+    color:white;
+}
+.nav.navbar-nav.navbar-right button {
+    color:blue;
+}
+.navtext{
+    margin-top: -1.5rem;
+    padding-right: 4rem;
+}
+.navtext1{
+    margin-bottom: -1.0rem;
+    font-size: 25px;
+    padding-right: 10px;
+}
+
+.opening {
+    margin:5% 10% 0% 15%;
+    font-size: 60px;
+    color: white;
+}
+.opening-below {
+    padding-bottom:20%;
+    padding-left:27%;
+    font-size: 30px;
+    color: white;
+} 
+.atom{
+    margin-left: 15rem;
+    margin-top: 10rem;
+    border-radius:50%;
+    color:white;
+
+}
+.card-header-price h3{
+    color: white;
+    font-size: 40px;
+}
+.card-body-price{
+    padding:10px 10px 15px 10px ;
+    
+}
+.card-body-price h4{
+    color:white;
+}
+
+.teaching{
+    border-radius: 0 100px 0 0;
+    width:350px;
+    height:350px; 
+}
+#connection{
+    background-color:white;
+    padding:50px;
+    text-align: center;
+        
+}
+
+#pricing{
+    background-color:white;
+    padding:50px;
+    text-align: center;
+}
+.pricing-column{
+    padding:3% 3%;
+    
+}
+
+.hello {
+    right: 37rem;
+    position: absolute;
+    top: 6rem;
+}
+
+.icon-design-bg{
+    position:absolute;
+    color:blue;
+    background-color: blue;
+    position: absolute;
+    left: 2%;
+    top: 2%;
+    border-radius:50%;
+    
+
+}
+.icon-design{
+    
+    position:absolute;
+    color: white;
+    background-color: blue;
+    position: absolute;
+    left: 4%;
+    top: 4%;
+    border-radius: 50%;
+    border-width:400rem;
+}
+.cardDec{
+    background-color: #0275d8;
+    border-radius:10px;
+    padding:25% 0 25% 0;
+}
+.card2{
+    padding:2% 0 2% 2%;
+    text-align: left;
+    border-style: solid;
+    border-width: 1px;
+    border-color: rgb(183, 181, 181);
+    box-shadow: 5px 5px 50px #f1efef;
+}
+.card2 p{
+    padding-top: 5%;
+    padding-bottom: 5%;
+
+}
+.card-title{
+    padding-left: 0px;
+    display: inline;
+    padding-right:25rem;
+
+}
+.card-title-notif{
+    padding-left: 0px;
+    display: inline;
+    padding-right: 10rem;
+}
+.card-body-notif h3{
+    padding:10% 0% 0% 0;
+    margin: 0%;
+  
+
+}
+.card-body-notif p{
+    padding: 0;
+    margin: 0%;
+}
+.view-more{
+    padding-left: 20rem;
+}
+.vedio{
+    width: 80%;
+    height: 600px;
+    margin: 5% 5% 5% 10%;
+    
+}
+ 
+.card-teach{
+    display: flex;
+    flex-direction: row;
+    height:150px;
+    width:600px;
+    padding: 10px 0 10px 100px;
+    
+    
+    
+}
+.card-img-top{
+    margin-left: 0px;
+    padding-left 10px;
+    border-radius: 10px 0 0 10px;
+    width:200px;
+}
+.card-body-teach{
+    border-radius: 0 10px 10px 0;
+    background-color: lightgrey;
+    width:500px;
+    
+   
+}
+.card-body-teach h3,h5{
+    padding-left:20px;
+
+}
+.card-body-teach a{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    padding:0 40px 20px 0;
+}
+
+h2{
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    color: #0275d8;
+}
+.teaching-design{
+    padding-top:5%;
+    padding-left:10%;
+}
+.teaching-design ul{
+    padding-left: 0pt;
+    padding-bottom: 0;
+}
+
+
+ .teaching-design p{
+    display: inline-flex;
+    flex-direction: row;
+    
+
+} 
+
+.footer-padding {
+	padding-bottom: 60px;
+}
+
+#footer {
+	background-color: #11426d;
+    margin-top: 10rem;
+    padding-top: 5rem;
+    color: white;
+}
+
+.footer-down {
+	height:25px;
+    width:100%;
+    background-color:#77818b;
+}
